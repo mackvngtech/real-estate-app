@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import PropertyCard from '../components/PropertyCard';
-import SearchBar from '../components/SearchBar';
-import Pagination from '../components/Pagination';
+import PropertyCard from '../components/PropertyCard.jsx';
+import SearchBar from '../components/SearchBar.jsx';
+import Pagination from '../components/Pagination.jsx';
 
 const API_URL = 'http://localhost:5000/api';
 
