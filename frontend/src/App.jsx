@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
-import Home from './pages/Home.jsx';
+import Home from './pages/home.jsx';
 import PropertyDetails from './pages/propertydetails.jsx';
 import AddProperty from './pages/AddProperty.jsx';
 import ThemeToggle from './components/ThemeToggle.jsx';
